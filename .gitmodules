@@ -1,0 +1,6 @@
+[submodule "node-api-event-manager"]
+	path = node-api-event-manager
+	url = https://github.com/wojciechszmelczerczyk/node-api-event-manager.git
+[submodule "react-ui-event-manager"]
+	path = react-ui-event-manager
+	url = https://github.com/wojciechszmelczerczyk/react-ui-event-manager.git
